@@ -1,0 +1,59 @@
+# Toploader – Dancing in the Moonlight
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:14.70] We get it almost every night
+[00:19.06] When that moon is big and bright
+[00:22.77] It's a supernatural delight!
+[00:26.71] Everybody's dancing in the moonlight
+[00:44.71] 
+[00:38.98] Everybody here is out of sight
+[00:42.95] They don't bark and they don't fight
+[00:46.61] They keep things loose they keep it tight
+[00:50.53] Everybody's dancing in the moonlight
+[01:08.53] 
+[00:56.01] Dancing in the moonlight
+[00:58.67] Everybody's feeling warm and bright
+[01:02.79] It's such a fine and natural sight
+[01:06.59] Everybody's dancing in the moonlight
+[01:24.59] 
+[01:19.19] We like our fun and we never fight
+[01:23.32] You can't dance and stay uptight, It's a supernatural delight
+[01:30.83] Everybody was dancing in the moonlight
+[01:49.83] 
+[01:36.08] Dancing in the moonlight
+[01:38.85] Everybody's feeling warm and bright
+[01:42.94] It's such a fine and natural sight
+[01:46.50] Everybody's dancing in the moonlight
+[02:04.50] 
+[02:07.59] We get it almost every night
+[02:11.42] And when that moon is big and bright
+[02:15.38] It's a supernatural delight
+[02:19.45] Everybody's dancing in the moonlight
+[02:24.52] Dancing in the moonlight
+[02:36.52] 
+[02:27.21] Everybody's feeling warm and bright
+[02:31.22] It's such a fine and natural sight
+[02:35.19] Everybody's dancing in the moonlight
+[02:40.77] Dancing in the moonlight
+[02:52.77] 
+[02:43.35] Everybody's feeling warm and bright
+[02:47.34] It's such a fine and natural sight
+[02:51.11] Everybody's dancing in the moonlight
+[02:56.95] Dancing in the moonlight
+[03:08.95] 
+[02:59.40] Everybody's feeling warm and bright
+[03:03.38] It's such a fine and natural sight
+[03:07.36] Everybody's dancing in the moonlight
+[03:12.98] Dancing in the moonlight
+[03:24.98] 
+[03:15.64] Everybody's feeling warm and bright
+[03:19.48] It's such a fine and natural sight
+[03:23.12] Everybody's dancing in the moonlight
+[03:28.95] Dancing in the moonlight
+[03:40.95] 
+[03:31.36] Everybody's feeling warm and bright
+[03:35.61] It's such a fine and natural sight
+[03:39.45] Everybody's dancing in the moonlight
+```
