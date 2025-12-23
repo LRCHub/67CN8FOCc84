@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Dancing in the Moonlight",
+  "base_artist": "Toploader",
+  "createdAt": "2025-12-23T08:37:48.698890Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dancing In The Moonlight",
+      "artist": "Toploader",
+      "has_synced": true,
+      "path": "select/01_Dancing_In_The_Moonlight_Toploader.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dancing In The Moonlight",
+      "artist": "Ouse",
+      "has_synced": true,
+      "path": "select/02_Dancing_In_The_Moonlight_Ouse.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dancing In The Moonlight",
+      "artist": "Toploader",
+      "has_synced": true,
+      "path": "select/03_Dancing_In_The_Moonlight_Toploader.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dancing In The Moonlight",
+      "artist": "Toploader",
+      "has_synced": true,
+      "path": "select/04_Dancing_In_The_Moonlight_Toploader.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dancing in the Moonlight",
+      "artist": "Toploader",
+      "has_synced": true,
+      "path": "select/05_Dancing_in_the_Moonlight_Toploader.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dancing In The Moonlight",
+      "artist": "King Harvest",
+      "has_synced": true,
+      "path": "select/06_Dancing_In_The_Moonlight_King_Harvest.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dancing In The Moonlight",
+      "artist": "Toploader",
+      "has_synced": true,
+      "path": "select/07_Dancing_In_The_Moonlight_Toploader.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dancing in the Moonlight",
+      "artist": "Toploader",
+      "has_synced": true,
+      "path": "select/08_Dancing_in_the_Moonlight_Toploader.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dancing in the Moonlight",
+      "artist": "Toploader",
+      "has_synced": true,
+      "path": "select/09_Dancing_in_the_Moonlight_Toploader.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dancing in the Moonlight",
+      "artist": "ワルキューレ",
+      "has_synced": false,
+      "path": "select/10_Dancing_in_the_Moonlight_ワルキューレ.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dancing in the Moonlight",
+      "artist": "Jubel",
+      "has_synced": true,
+      "path": "select/11_Dancing_in_the_Moonlight_Jubel.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dancing in the Moonlight",
+      "artist": "Toploader",
+      "has_synced": true,
+      "path": "select/12_Dancing_in_the_Moonlight_Toploader.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dancing In The Moonlight",
+      "artist": "大橋トリオ",
+      "has_synced": true,
+      "path": "select/13_Dancing_In_The_Moonlight_大橋トリオ.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dancing in the Moonlight",
+      "artist": "King Harvest",
+      "has_synced": true,
+      "path": "select/14_Dancing_in_the_Moonlight_King_Harvest.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dancing in the Moonlight",
+      "artist": "Toploader",
+      "has_synced": true,
+      "path": "select/15_Dancing_in_the_Moonlight_Toploader.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Dancing in the Moonlight",
+      "artist": "Morgan Heritage",
+      "has_synced": false,
+      "path": "select/16_Dancing_in_the_Moonlight_Morgan_Heritage.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Dancing in the Moonlight",
+      "artist": "Toploader",
+      "has_synced": true,
+      "path": "select/17_Dancing_in_the_Moonlight_Toploader.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dancing in the Moonlight",
+      "artist": "Toploader",
+      "has_synced": false,
+      "path": "select/pl_01_Dancing_in_the_Moonlight_Toploader.txt"
+    }
+  ]
+}
